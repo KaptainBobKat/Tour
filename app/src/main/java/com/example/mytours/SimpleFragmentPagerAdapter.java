@@ -7,7 +7,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
-    private String[] tabTitles = new String[]{"Attractions", "Restaurants", "Hotels", "Shops"};
+    private String[] tabTitles = new String[]{String.valueOf((R.string.Attraction)), String.valueOf((R.string.Resturants)), String.valueOf((R.string.hotels)), String.valueOf((R.string.shops))};
     private Context context;
 
 

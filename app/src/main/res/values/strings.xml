@@ -69,6 +69,11 @@
     <string name="jody">Jodyshop Shopping</string>
     <string name="genena">Genena Mall</string>
     <string name="cairofest">Cairo Festival City Mall</string>
+    <string name="Attraction">Attractions</string>
+    <string name="Resturants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="shops">Shops</string>
+
     <style name="Location">
         <item name="android:layout_weight">1</item>
         <item name="android:layout_height">wrap_content</item>
